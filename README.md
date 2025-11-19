@@ -1,3 +1,3 @@
 # First-Template-Leon
-My First Front-End Templates
+My First Front-End Project 
 
